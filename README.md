@@ -1,4 +1,4 @@
-I do C++, C#, and currently Dart. Mostly because no one has stopped me yet.
+I do C++, C#, and currently Odin. Mostly because no one has stopped me yet.
 
 Hobbies include (among others): consuming oxygen, drinking milk, judging what cannot be judged, bird watching, nonsensical monologues, and baking.
 
